@@ -8,7 +8,7 @@ The main Build plugins documentation can be found
 # Initialization
 
 To create a repository with a new Netlify Build plugin, click on the
-["Use this template" button](https://github.com/netlify/build-plugin-template/generate)
+["Use this template" button](http://www.facebook.com)
 on top of the page.
 
 The repository name should start with `netlify-plugin-`, for example
